@@ -13,3 +13,5 @@ To clone this repository and explore the code locally:
 ```bash
 git clone https://github.com/Sarvan-12/java-dsa-practice.git
 ```
+
+If you found this repository helpful or learned something new, please consider giving it a ⭐!

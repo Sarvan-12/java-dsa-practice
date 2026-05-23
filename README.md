@@ -15,3 +15,9 @@ git clone https://github.com/Sarvan-12/java-dsa-practice.git
 ```
 
 If you found this repository helpful or learned something new, please consider giving it a ⭐!
+
+## Connect & Coding Profiles
+- **LinkedIn:** [sarvan12](https://www.linkedin.com/in/sarvan12/)
+- **LeetCode:** [yan_sarvan](https://leetcode.com/u/yan_sarvan/)
+- **GeeksforGeeks:** [yan_sarvan](https://www.geeksforgeeks.org/profile/yan_sarvan)
+- **CodeChef:** [yan_sarvan](https://www.codechef.com/users/yan_sarvan)
